@@ -5,8 +5,5 @@
       "maxDuration": 300,
       "memory": 1024
     }
-  },
-  "env": {
-    "NODE_OPTIONS": "--max-old-space-size=1024"
   }
 }
